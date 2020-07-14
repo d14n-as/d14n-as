@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Image of Abd](imgs/abd.jpg)
+
+ ⚡ This is what i see, and i feel in few years ago. Just simplicity, on my mind into anchor point tool actually.
+
 <!--
 **d14n-as/d14n-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
