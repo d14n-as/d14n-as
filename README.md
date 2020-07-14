@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Image of Abd](imgs/abd.jpg)
+![Image of Abd](https://raw.githubusercontent.com/d14n-as/d14n-as/master/imgs/abd.jpg)
 
  ⚡ This is what i see, and i feel in few years ago. Just simplicity, on my mind into anchor point tool actually.
 
